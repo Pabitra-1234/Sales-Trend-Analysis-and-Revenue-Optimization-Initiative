@@ -7,6 +7,7 @@ Outcome: Empowered senior management with data-driven insights to support strate
 Potential Impact: The initiative holds the potential to boost revenue by 10% and reduce data expenses by 20%.
 
 Tableau Public Dashboard link 1 - https://public.tableau.com/views/SalesAnalysish/ProfitAnalysishWithClientFeedback?:language=en-US&:display_count=n&:origin=viz_share_link
+
 Tableau Public Dashboard link 1 - https://public.tableau.com/views/SalesDashborad1beforeclientreview/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link
 
 
